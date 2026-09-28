@@ -3,21 +3,23 @@
 I do respect the quality of a hardware builds from [Panda KB](https://pandakb.com)
 but I have to say that their keyboard layout sucks.
 
-I'm making such layout that will not mess with your muscle memory.
-So you will be able to switch between split/regular keyboards easily.
+This is an attempt to make a layout that will not mess with your muscle memory.
+So you will be able to switch between split/regular keyboards.
 
 ## Layout
 
-It has 2 additional layers for keys and a 3rd one to control keyboard functions.
-So it's added up to 4 layers :) and I still thinking about adding other one (numpad for a right hand).
+Keyboard has 3 additional layers + one extra layer to configure hardware.
 
-Tried to place keys in such way that you will have to press them with the same finger as on regular keyboard.
-Or at least the key will be located in the same area.
+Tried to put keys on additional layers in the similar areas as on a regular keyboards
+or in such way to press them with a same fingers.
+For convenience some keys are duplicated on different layer. 
 
-Some keys were moved to a new places on a zero layer, some keys duplicated in different locations on different layers.
+I'm still working on this layout. It has many empty spots for the left hand. This is where you can customize it.
 
-I'm still working on this layout. It has many empty spots on additional layers.
-Not so much keys for a left hand to press on. This is where your imagination can be used.
+### Mouse layer
+
+Making it was a very good idea indeed.
+You will get used to it and will not touch your mouse most of the time.
 
 ### Configuration layer
 
