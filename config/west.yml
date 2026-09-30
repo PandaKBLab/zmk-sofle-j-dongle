@@ -33,9 +33,6 @@ manifest:
     - name: zmk-module-runtime-input-processor
       remote: cormoran
       revision: zmk-v0.3.0.0
-    - name: prospector-zmk-module
-      remote: tokyo2006
-      revision: micro_spi2
     - name: zmk-dongle-display
       remote: englmaxi
       revision: v0.3
